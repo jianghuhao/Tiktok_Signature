@@ -61,7 +61,7 @@ app.get("/", (req, res) => {
       <body>
         <h1>Tiktok_Signature</h1>
         <p>自动生成抖音 xbogus、mstoken 和 ttwid</p>
-        <p>使用方法：<a href="https://github.com/5ime/Tiktok_Signature" target="_blank">https://github.com/5ime/Tiktok_Signature</a></p>
+        <p>我们的网址：<a href="https://tiktok-tan.vercel.app" target="_blank">https://tiktok-tan.vercel.app</a></p>
       </body>
     </html>
   `);
